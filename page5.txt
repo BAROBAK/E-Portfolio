@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bright Robak's E-Portfolio</title>
+<meta charset="UTF-8">
+<meta name="description" content="Bright Robak's Electronic Portfolio, Published Online.">
+<meta name="author" content="Bright Robak">
+</header>
+<body><h1>Compass Curriculum:</h1>
+<h2>What is the Compass Curriculum?</h2>
+<p>One major part of studying at Keuka College is participation in their compass curriculum. The compass curriculum requires all students to take non-major related courses in order to become more well rounded people. These courses are pulled from a variety of fields and intend to strengthen 
+<p><a href="index.html">Back to main page:</p>
+</body></html>
